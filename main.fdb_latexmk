@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775679746.89062 "c:/Users/babyd/.vscode/lebesgues-criterion/main.tex" "main.pdf" "main" 1775679753.29148 0
-  "C:/Users/babyd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775678787 82686 2381c3433487640bf26aa76a10db7eb2 ""
+["pdflatex"] 1776107275.89324 "c:/Users/babyd/.vscode/lebesgues-criterion/main.tex" "main.pdf" "main" 1776107288.11489 0
+  "C:/Users/babyd/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1776035177 82714 c9c37d051a0c563641ee6353df77525b ""
   "C:/Users/babyd/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775232359 13333486 a20acf026f3c44f53a9f4bd4f6bdd0a4 ""
   "C:/Users/babyd/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr9.tfm" 1136765053 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "C:/Users/babyd/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmss10.tfm" 1136765053 1316 b636689f1933f24d1294acdf6041daaa ""
@@ -167,11 +167,11 @@
   "C:/Users/babyd/AppData/Local/Programs/MiKTeX/tex/latex/translator/translator.sty" 1622471510 8765 56d370785f0143111ff9898b5adfe08e ""
   "C:/Users/babyd/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/babyd/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/babyd/.vscode/lebesgues-criterion/main.tex" 1775679737 2533 1a7e760b2ffb993f55878018f1ed4d6a ""
-  "main.aux" 1775679752 4044 9ee2bdea6499c6bb44eee0d35090fb75 "pdflatex"
-  "main.nav" 1775679752 2783 f8b0d1eaf383f71e4268670ac899f7e1 "pdflatex"
-  "main.out" 1775679749 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1775679737 2533 1a7e760b2ffb993f55878018f1ed4d6a ""
+  "c:/Users/babyd/.vscode/lebesgues-criterion/main.tex" 1775688997 2451 49f1d60f87c65e238581aa415896d30b ""
+  "main.aux" 1776107287 4044 9ee2bdea6499c6bb44eee0d35090fb75 "pdflatex"
+  "main.nav" 1776107287 2783 f8b0d1eaf383f71e4268670ac899f7e1 "pdflatex"
+  "main.out" 1776107283 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1775688997 2451 49f1d60f87c65e238581aa415896d30b ""
   (generated)
   "main.aux"
   "main.log"
